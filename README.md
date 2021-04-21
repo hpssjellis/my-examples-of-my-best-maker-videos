@@ -50,4 +50,15 @@ https://www.youtube.com/watch?v=IA-MYG8vYeg&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_ID
 
 
 
+not mine but a freat tinyML link
+
+https://www.youtube.com/tinyML
+
+
+
+
+
+
+
+
 
