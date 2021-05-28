@@ -82,7 +82,7 @@ https://www.youtube.com/tinyML
 
 
 
-## RETWEAT
+## RETWEET
 
 Walking Around Ski Resort
 https://www.youtube.com/watch?v=KgYr4IKcydE&list=PL57Dnr1H_egukaDgFqwEnDVStd7Jktg1E&index=14
