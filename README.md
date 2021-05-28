@@ -3,6 +3,12 @@
 
 Main Playlist links:
 
+My Youtube Playlists
+
+https://www.youtube.com/c/Rocksetta/playlists
+
+
+
 Edge Impulse
 
 https://www.youtube.com/playlist?list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR
@@ -50,7 +56,7 @@ https://www.youtube.com/watch?v=IA-MYG8vYeg&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_ID
 
 
 
-not mine but a freat tinyML link
+not mine but a Great tinyML link
 
 https://www.youtube.com/tinyML
 
