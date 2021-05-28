@@ -84,7 +84,13 @@ https://www.youtube.com/tinyML
 
 ## RETWEAT
 
-https://youtu.be/KgYr4IKcydE
+Walking Around Ski Resort
+https://www.youtube.com/watch?v=KgYr4IKcydE&list=PL57Dnr1H_egukaDgFqwEnDVStd7Jktg1E&index=14
+
+Promoting javascript machine learning
+https://www.youtube.com/watch?v=XmN1-s8loIs&list=PL57Dnr1H_egukaDgFqwEnDVStd7Jktg1E&index=13
+
+
 
 
 
