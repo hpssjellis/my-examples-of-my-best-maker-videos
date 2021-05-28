@@ -38,6 +38,26 @@ Particle High School Robotics
 https://www.youtube.com/playlist?list=PL57Dnr1H_egsL0r4RXPA4PY2yZhOJk5Nr
 
 
+My TensorflowJS Videos
+https://www.youtube.com/watch?v=dnDb-RAvxHg&list=PL57Dnr1H_egukaDgFqwEnDVStd7Jktg1E
+
+
+Social Distancing
+https://www.youtube.com/watch?v=jquWGWDEVb4&list=PL57Dnr1H_egsp6jEaTTZwMgJgBoqrJzsq
+
+
+Music Keyfree
+https://www.youtube.com/watch?v=qbmX1FDpbEM&list=PL57Dnr1H_egttPxXEgCf7Fn-Vh5OFHh1z
+
+
+
+PhoneGap Javascript (OLD)
+https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5rCKK
+
+
+
+
+
 
 
 Best video links:
@@ -62,7 +82,9 @@ https://www.youtube.com/tinyML
 
 
 
+## RETWEAT
 
+https://youtu.be/KgYr4IKcydE
 
 
 
