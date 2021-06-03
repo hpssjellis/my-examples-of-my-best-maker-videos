@@ -62,6 +62,8 @@ https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5r
 
 Best video links:
 
+Edge Impulse on Browser
+https://www.youtube.com/watch?v=4hbIZ4uaKBU&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR&index=10
 
 
 FAST EDGE  
