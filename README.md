@@ -3,7 +3,7 @@
 
 Main Playlist links:
 
-My Youtube Playlists
+# My Youtube Playlists
 
 https://www.youtube.com/c/Rocksetta/playlists
 
@@ -60,7 +60,7 @@ https://www.youtube.com/watch?v=aq4JByHZt9E&list=PL57Dnr1H_egu-ZY4_NyBaK8CY3sE5r
 
 
 
-Best video links:
+# Best video links:
 
 Edge Impulse on Browser
 https://www.youtube.com/watch?v=4hbIZ4uaKBU&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR&index=10
@@ -78,7 +78,7 @@ https://www.youtube.com/watch?v=IA-MYG8vYeg&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_ID
 
 
 
-not mine but a Great tinyML link
+# not mine but a Great tinyML link
 
 https://www.youtube.com/tinyML
 
