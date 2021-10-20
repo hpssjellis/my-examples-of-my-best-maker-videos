@@ -80,6 +80,8 @@ Air Wrtiting Nano33BleSense
 https://www.youtube.com/watch?v=IA-MYG8vYeg&list=PL57Dnr1H_egsQPnEObWHPhK1Q4g_IDWcR&index=6
 
 
+RC Car Posenet
+https://youtu.be/61jYk4a8wkE
 
 
 # not mine but a Great tinyML link
