@@ -84,9 +84,32 @@ RC Car Posenet
 https://youtu.be/61jYk4a8wkE
 
 
+## SmrtCherry Interview
+
+1. Video start https://youtu.be/IWo6VLnLb34
+
+2. Mention the Arduino PortentaH7 $100 USD Microcontroller https://youtu.be/IWo6VLnLb34?t=73
+
+3. Chat about EdgeImpulse https://youtu.be/IWo6VLnLb34?t=332
+
+4. PCB design JLCPCB EasyEDA  https://youtu.be/IWo6VLnLb34?t=1106
+
+5. Making a product?  https://youtu.be/IWo6VLnLb34?t=1170 
+
+6. Grant to get tech to youth  https://youtu.be/IWo6VLnLb34?t=1381     
+
+7. Seeedstudio XIAO $5 USD Microcontroller  https://youtu.be/IWo6VLnLb34?t=1853
+
+8. Coding and Robotics and Machine Learning teach youth that things don't always work the first time, you need to keep trying  https://youtu.be/IWo6VLnLb34?t=2098
+
+
 # not mine but a Great tinyML link
 
 https://www.youtube.com/tinyML
+
+
+
+
 
 
 
