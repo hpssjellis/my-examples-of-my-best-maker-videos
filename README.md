@@ -29,6 +29,8 @@ Helium HNT The Peoples Network
 
 https://www.youtube.com/playlist?list=PL57Dnr1H_egu0PkIBAbbdfQ21O_NJqJg8
 
+review iot    https://www.youtube.com/watch?v=MGS7GOdAExE&list=PL57Dnr1H_egu0PkIBAbbdfQ21O_NJqJg8&index=3
+
 Arduino High School Robotics
 
 https://www.youtube.com/playlist?list=PL57Dnr1H_egv1FVzAcCZVeANJMs3Hta05
