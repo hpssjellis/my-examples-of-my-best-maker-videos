@@ -8,6 +8,23 @@ Main Playlist links:
 https://www.youtube.com/c/Rocksetta/playlists
 
 
+TinyML4D TYinyMLedu
+
+https://www.youtube.com/watch?v=eaR37pA1hiw&list=PL57Dnr1H_egu2u6f-R1_emgF1q2PIUsMA
+
+
+Maker100-Eco
+
+https://www.youtube.com/watch?v=7Aucyd10Mtw&list=PL57Dnr1H_egt9XmHjfcyRR4YCo3eGrZwQ
+
+Seeedstudio
+
+https://www.youtube.com/watch?v=wA6JB-PzuUs&list=PL57Dnr1H_egu2b2lf6C6FAaUQlCViENYc
+
+
+RakWireless
+
+https://www.youtube.com/watch?v=Eye5zlfl3I8&list=PL57Dnr1H_egsfctG_K8AQ9uGhaLsTth6x
 
 Edge Impulse
 
