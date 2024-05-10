@@ -12,7 +12,7 @@ I was the facilatator for day 4. The research Show and Tell day.
 3. Eric Pan From Seeedstudio mentioning how they watched my Javascript WebSerial presentation and made [Sensecraft](https://seeed-studio.github.io/SenseCraft-Web-Toolkit/#/setup/process). Video at 5:15 https://youtu.be/RYlq1A7lcxk?si=baRHc-9QbSbatiKG&t=310
 
 
-4. When the last presenter was not available and as I was a facilatator I demonstrated one of the things I am working on at 23:52 of this video  https://youtu.be/_TclWKHTduo?si=6yJQAX57VT4sc6JR&t=1432  . This is called tinyMLjs where I do almost the entire process of machine learning on microcontrollers using a static webpage. The first part of this is what Eric Pan saw in Italy [ICTP](https://www.ictp.it/) in the summer of 2023.
+4. When the last presenter was not available and as I was a facilatator I demonstrated one of the things I am working on at 23:52 of this video  https://youtu.be/_TclWKHTduo?si=6yJQAX57VT4sc6JR&t=1432  . This is called [tinyMLjs](https://hpssjellis.github.io/tinyMLjs/public/index.html) where I do almost the entire process of machine learning on microcontrollers using a static webpage. The first part of this is what Eric Pan saw in Italy [ICTP](https://www.ictp.it/) in the summer of 2023.
 
 #  Main Playlist links:
 
