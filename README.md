@@ -1,5 +1,12 @@
 # my-examples-of-my-best-maker-videos
 
+## [SciTinyML-24](https://tinyml.seas.harvard.edu/SciTinyML-24/) 
+I was the facilatator for day 4. The research Show and Tell day.
+
+1. [V.J. Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) from Harvard School of Engineering mentioning TinyML resource people at 24:16  https://youtu.be/wW4FSf3OwqM?si=4zgBKyo67wgn0k9d&t=1450
+2. [V.J. Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) from Harvard School of Engineering mentioning people at 30:44  https://youtu.be/wW4FSf3OwqM?si=SQWGhYqGhvaYRoJP&t=1836
+3. Eric Pan From Seeedstudio mentioning how they watched my Javascript WebSerial presentation and made Sensecraft. Video at 5:15 https://youtu.be/wW4FSf3OwqM?si=4zgBKyo67wgn0k9d&t=1450
+4. When the last presenter was not available I demonstrated one of the things I am working on at 23:52 of this video  https://youtu.be/_TclWKHTduo?si=6yJQAX57VT4sc6JR&t=1432
 
 Main Playlist links:
 
