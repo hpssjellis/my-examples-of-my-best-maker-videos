@@ -1,5 +1,12 @@
 # my-examples-of-my-best-maker-videos
 
+
+## Academic Paper
+
+1. [TinyML4D: Scaling Embedded Machine LearningEducation in the Developing World](https://ojs.aaai.org/index.php/AAAI-SS/article/view/31265/33425)
+
+   
+
 ## [SciTinyML-24](https://tinyml.seas.harvard.edu/SciTinyML-24/) 
 I was the facilatator for day 4. The research Show and Tell day.
 
