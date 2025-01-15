@@ -7,9 +7,10 @@
 
    
 
-## [SciTinyML-24](https://tinyml.seas.harvard.edu/SciTinyML-24/) 
-I was the facilatator for day 4. The research Show and Tell day.
+## [SciTinyML-24](https://tinyml.seas.harvard.edu/SciTinyML-24/)  I was the facilatator for day 4. The research Show and Tell day.
 
+1. [V.J. Reddi mention 5 leads in tinyML including me](https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689) https://youtu.be/pbFYiR2sTlY?si=W9fia8U7jdUbsF2U&t=2689 which is at 
+44:49
 1. [V.J. Reddi](https://scholar.harvard.edu/vijay-janapa-reddi/home) from Harvard School of Engineering mentioning TinyML resource people at 24:16  https://youtu.be/wW4FSf3OwqM?si=4zgBKyo67wgn0k9d&t=1450
 
 
